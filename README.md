@@ -4,7 +4,7 @@
 
 -  I’m currently working with BackEnd Development  using Nodejs, Javascript, Typecript. And Learning ReactJS And React Native.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 [<img align="left" alt="adilsonfuxe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] 
