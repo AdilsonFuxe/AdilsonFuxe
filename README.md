@@ -47,3 +47,4 @@
 [terminal]: https://pt.wikipedia.org/wiki/Terminal_(inform%C3%A1tica)
 [github]: https://github.com/AdilsonFuxe/
 [git]: https://git-scm.com/
+[java]: https://www.java.com/en/
