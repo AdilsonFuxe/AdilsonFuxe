@@ -3,7 +3,6 @@
 ## I'm computer engineering student and Developer.
 
 -  I’m currently working with BackEnd Development  using Nodejs, Typecript, Clean Architecture, SOLID, TDD.
-- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
 
