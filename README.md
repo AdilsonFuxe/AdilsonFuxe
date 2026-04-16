@@ -1,8 +1,7 @@
 ### Hi there, I'm Adilson Fuxe 👋
 
-## I'm computer engineering student and Software Developer.
+## I'm  Sodtware engineering
 
--  I’m currently working with BackEnd Development  using Nodejs, Typecript, Clean Architecture, SOLID, TDD.
 
 ### Languages and Tools:
 
